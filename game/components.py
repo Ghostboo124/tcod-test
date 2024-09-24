@@ -1,6 +1,6 @@
+from __future__ import annotations
 import attrs
 
-from __future__ import annotations
 from typing import Final, Self
 
 import tcod.ecs.callbacks
