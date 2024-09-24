@@ -1,0 +1,12 @@
+"""
+This module stores all global variables used by this program
+"""
+
+from __future__ import annotations
+import tcod.context
+import tcod.ecs
+
+context: tcod.context.Context
+"""The windows managed by tcod"""
+
+world: tcod.ecs.Registry
