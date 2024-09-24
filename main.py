@@ -1,3 +1,11 @@
+"""
+We are up to here -> https://python-tcod.readthedocs.io/en/latest/tutorial/part-02.html#new-ingame-state
+Here are some good assets -> https://free-game-assets.itch.io/ also at https://craftpix.net/freebies/free-pixel-art-tiny-hero-sprites/ but you need an account
+This is the old toutorial -> https://www.rogueliketutorials.com/tutorials/tcod/v2
+Here are some fonts -> https://github.com/libtcod/python-tcod/blob/11.13.5/fonts/libtcod
+This github repo's url -> https://github.com/Ghostboo124/tcod-test
+"""
+
 from __future__ import annotations
 
 import attrs
